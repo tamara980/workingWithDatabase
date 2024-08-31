@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-31T11:31:15 EET" name="Default suite" finished-at="2024-08-31T11:31:17 EET" duration-ms="2156">
+    <groups>
+    </groups>
+    <test started-at="2024-08-31T11:31:15 EET" name="Default test" finished-at="2024-08-31T11:31:17 EET" duration-ms="2156">
+      <class name="databaseTestingWorkbenech.TestCasesTestingDatabase">
+        <test-method is-config="true" signature="setup()[pri:0, instance:databaseTestingWorkbenech.TestCasesTestingDatabase@7db12bb6]" started-at="2024-08-31T11:31:15 EET" name="setup" finished-at="2024-08-31T11:31:16 EET" duration-ms="1767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test1ToGetData()[pri:1, instance:databaseTestingWorkbenech.TestCasesTestingDatabase@7db12bb6]" started-at="2024-08-31T11:31:17 EET" name="test1ToGetData" finished-at="2024-08-31T11:31:17 EET" duration-ms="171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1ToGetData -->
+        <test-method signature="AddData()[pri:2, instance:databaseTestingWorkbenech.TestCasesTestingDatabase@7db12bb6]" started-at="2024-08-31T11:31:17 EET" name="AddData" finished-at="2024-08-31T11:31:17 EET" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddData -->
+        <test-method signature="UpdateData()[pri:3, instance:databaseTestingWorkbenech.TestCasesTestingDatabase@7db12bb6]" started-at="2024-08-31T11:31:17 EET" name="UpdateData" finished-at="2024-08-31T11:31:17 EET" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateData -->
+        <test-method signature="DeleteData()[pri:4, instance:databaseTestingWorkbenech.TestCasesTestingDatabase@7db12bb6]" started-at="2024-08-31T11:31:17 EET" name="DeleteData" finished-at="2024-08-31T11:31:17 EET" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteData -->
+      </class> <!-- databaseTestingWorkbenech.TestCasesTestingDatabase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
